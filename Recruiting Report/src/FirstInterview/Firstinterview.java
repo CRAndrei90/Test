@@ -42,7 +42,7 @@ public class Firstinterview {
 				generateBarChart(),
 				500,
 				400,
-				"C://Users//cian//Desktop//Work Java//Proiecte Interne//Recruiting Report//Firstinterview.pdf");
+				"C://Users//cian//Desktop//Work Java//Proiecte ERNI Interne//Soft Recrutare//Recruiting Report//Firstinterview.pdf");
 	}
 
 	// --------------------------------------------------------------------------

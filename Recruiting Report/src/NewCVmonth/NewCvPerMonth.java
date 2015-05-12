@@ -42,7 +42,7 @@ public class NewCvPerMonth {
 				generateBarChart(),
 				500,
 				400,
-				"C://Users//cian//Desktop//Work Java//Proiecte Interne//Recruiting Report//NewCV.pdf");
+				"C://Users//cian//Desktop//Work Java//Proiecte ERNI Interne//Soft Recrutare//Recruiting Report//NewCV.pdf");
 
 	}
 

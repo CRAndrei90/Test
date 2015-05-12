@@ -42,7 +42,7 @@ public class Secondinterview {
 				generateBarChart(),
 				500,
 				400,
-				"C://Users//cian//Desktop//Work Java//Proiecte Interne//Recruiting Report//Secondinterview.pdf");
+				"C://Users//cian//Desktop//Work Java//Proiecte ERNI Interne//Soft Recrutare//Recruiting Report//Secondinterview.pdf");
 	}
 
 	// --------------------------------------------------------------------------

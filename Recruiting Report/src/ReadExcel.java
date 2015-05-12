@@ -48,7 +48,7 @@ public class ReadExcel {
 				generateBarChart(),
 				500,
 				400,
-				"C://Users//cian//Desktop//Work Java//Proiecte Interne//Recruiting Report//barchart.pdf");
+				"C://Users//cian//Desktop//Work Java//Proiecte ERNI Interne//Soft Recrutare//Recruiting Report//barchart.pdf");
 
 	}
 
@@ -57,7 +57,7 @@ public class ReadExcel {
 		DefaultCategoryDataset dataSet = new DefaultCategoryDataset();
 		// --------------------------------------------------------
 		InputStream inputStream = null;
-		inputStream = new FileInputStream("Book1.xls");
+		inputStream = new FileInputStream("C://Users//cian//Desktop//Work Java//Proiecte Interne//Book1.xls");
 
 		POIFSFileSystem fileSystem = null;
 		fileSystem = new POIFSFileSystem(inputStream);
